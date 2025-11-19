@@ -1,5 +1,5 @@
 // API配置
-const API_BASE_URL = import.meta.env.VITE_API_URL || 'https://inventory-api-shenfuxu.onrender.com/api';
+const API_BASE_URL = import.meta.env.VITE_API_URL || 'https://https-dashboard-render-com-6l29.onrender.com/api';
 
 // Token管理
 const TOKEN_KEY = 'inventory_token';
